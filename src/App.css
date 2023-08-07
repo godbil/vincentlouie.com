@@ -1,7 +1,12 @@
+html {
+  scroll-behavior: smooth;
+}
+
 .navItems {
   position: fixed;
   top: 0;
   width: 92%;
+  z-index: 1;
   display: flex;
   padding: 10px;
   padding-left: 100px;
@@ -33,7 +38,7 @@ a {
   flex-flow: row wrap;
   justify-content: center;
   align-content: center;
-  height: 100vh;
+  height: 80vh;
   font-size: 24px;
   background-color: rgb(17, 2, 30);
   color: darkgray;
@@ -56,6 +61,15 @@ img {
   padding: 10px;
   -webkit-filter: invert(.75);
           filter: invert(.75);
+}
+
+.arrow {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  align-content: center;
+  height: 20vh;
+  background-color: rgb(17, 2, 30);
 }
 
 .about {
