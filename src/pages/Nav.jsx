@@ -6,7 +6,7 @@ function Nav() {
                 <a title="Home" href="#top">Home</a>
                 <a title="About" href="#about">About</a>
                 <a title="Projects" href="#projects">Projects</a>
-                <a title="Skills" href="#resume">Skills</a>
+                <a title="Resume" href="#resume">Resume</a>
             </div>
         </div>
     );
