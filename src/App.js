@@ -11,9 +11,9 @@ function App() {
     <>
       <Nav />
       <Home />
-      <About />
       <Projects />
       <Resume />
+      <About />
       <Footer />
     </>
   );

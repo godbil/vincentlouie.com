@@ -59,8 +59,16 @@ img {
   width: 50px;
   height: 50px;
   padding: 10px;
+}
+
+img:not(.gamejolt, .menu, .graph, .card, .site) {
   -webkit-filter: invert(.75);
           filter: invert(.75);
+}
+
+.menu, .graph, .card, .site {
+  width: 600px;
+  height: 400px;
 }
 
 .arrow {
@@ -72,20 +80,43 @@ img {
   background-color: rgb(17, 2, 30);
 }
 
-.about {
-  display: flex;
-  height: 100vh;
-  padding-top: 50px;
-  background-color: rgb(25, 3, 44);
-  color: darkgray;
-}
-
 .projects {
   display: flex;
-  height: 100vh;
+  flex-wrap: wrap;
+  height: 200vh;
   padding-top: 50px;
+  padding-bottom: 50px;
   background-color: rgb(25, 3, 44);
   color: darkgray;
+  border-top: 1px solid rgb(124, 121, 197);
+  border-bottom: 1px solid rgb(124, 121, 197);
+}
+
+.projects .title {
+  display: flex;
+  justify-content: center;
+  font-size: 46px;
+  font-weight: bold;
+  width: 100vw;
+  height: 120px;
+  color: rgb(255, 255, 188);
+  border-bottom: 1px solid rgb(124, 121, 197);
+}
+
+.section {
+  display: flex;
+  align-items: start;
+  font-size: 32px;
+  font-weight: bold;
+  width: 90vw;
+  padding-left: 10px;
+  color: rgb(255, 255, 188);
+}
+
+.projects img {
+  padding: 0;
+  padding-left: 10px;
+  padding-right: 10px;
 }
 
 .resume {
@@ -94,6 +125,33 @@ img {
   padding-top: 50px;
   background-color: rgb(25, 3, 44);
   color: darkgray;
+}
+
+.resume .title {
+  display: flex;
+  justify-content: center;
+  font-size: 46px;
+  font-weight: bold;
+  width: 100vw;
+  height: 120px;
+  color: rgb(255, 255, 188);
+  border-bottom: 1px solid rgb(124, 121, 197);
+}
+
+.about {
+  display: flex;
+  flex-wrap: wrap;
+  height: 30vh;
+  padding: 50px;
+  font-size: 20px;
+  background-color: rgb(25, 3, 44);
+  color: darkgray;
+}
+
+.about .title {
+  font-size: 46px;
+  font-weight: bold;
+  color: rgb(255, 255, 188);
 }
 
 .footer {
