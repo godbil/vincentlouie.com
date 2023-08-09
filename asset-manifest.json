@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/vincentlouie.com/static/css/main.7e03bafd.css",
+    "main.js": "/vincentlouie.com/static/js/main.51d5f6c1.js",
+    "static/js/787.633816a4.chunk.js": "/vincentlouie.com/static/js/787.633816a4.chunk.js",
+    "static/media/mtd-menu.png": "/vincentlouie.com/static/media/mtd-menu.64d963d2bdef781f0bf3.png",
+    "static/media/louievi1.pdf": "/vincentlouie.com/static/media/louievi1.91f3e0a2424c90ac4629.pdf",
+    "static/media/consoless.png": "/vincentlouie.com/static/media/consoless.06bf0452c20e55123564.png",
+    "static/media/cardgame.png": "/vincentlouie.com/static/media/cardgame.69ab67f9fc1b0bcf081d.png",
+    "static/media/site.png": "/vincentlouie.com/static/media/site.620a96ef1d5459d4f90f.png",
+    "static/media/web.svg": "/vincentlouie.com/static/media/web.449edabfd134688314cbbd50919150a5.svg",
+    "static/media/github.svg": "/vincentlouie.com/static/media/github.550985caaa8859d4b95ffb977ce9d9af.svg",
+    "index.html": "/vincentlouie.com/index.html",
+    "static/media/linkedin.svg": "/vincentlouie.com/static/media/linkedin.eaccfc4b453ff94aff73f6a0d1b53511.svg",
+    "static/media/email-outline.svg": "/vincentlouie.com/static/media/email-outline.ffe24abaeb56c6af70c15d099f4e98f7.svg",
+    "static/media/arrow-down.svg": "/vincentlouie.com/static/media/arrow-down.8840d99d8e9a90e337c99315d8c9c046.svg",
+    "main.7e03bafd.css.map": "/vincentlouie.com/static/css/main.7e03bafd.css.map",
+    "main.51d5f6c1.js.map": "/vincentlouie.com/static/js/main.51d5f6c1.js.map",
+    "787.633816a4.chunk.js.map": "/vincentlouie.com/static/js/787.633816a4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e03bafd.css",
+    "static/js/main.51d5f6c1.js"
+  ]
+}
