@@ -81,6 +81,22 @@ img:not(.gamejolt, .menu, .graph, .card, .site) {
   background-color: rgb(17, 2, 30);
 }
 
+.about {
+  display: flex;
+  flex-wrap: wrap;
+  height: 30vh;
+  padding: 50px;
+  font-size: 20px;
+  background-color: rgb(25, 3, 44);
+  color: darkgray;
+}
+
+.about .title {
+  font-size: 46px;
+  font-weight: bold;
+  color: rgb(255, 255, 188);
+}
+
 .projects {
   display: flex;
   flex-wrap: wrap;
@@ -152,22 +168,6 @@ img:not(.gamejolt, .menu, .graph, .card, .site) {
   height: 120px;
   color: rgb(255, 255, 188);
   border-bottom: 1px solid rgb(124, 121, 197);
-}
-
-.about {
-  display: flex;
-  flex-wrap: wrap;
-  height: 30vh;
-  padding: 50px;
-  font-size: 20px;
-  background-color: rgb(25, 3, 44);
-  color: darkgray;
-}
-
-.about .title {
-  font-size: 46px;
-  font-weight: bold;
-  color: rgb(255, 255, 188);
 }
 
 .footer {
