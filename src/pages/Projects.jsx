@@ -1,3 +1,4 @@
+import React  from 'react';
 import git from '../assets/github.svg'
 import gamejolt from '../assets/gamejolt.png'
 import mtdmenu from '../assets/mtd-menu.png'

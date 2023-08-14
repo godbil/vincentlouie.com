@@ -1,3 +1,4 @@
+import React  from 'react';
 import resume from '../assets/louievi1.pdf';
 
 function Resume() {

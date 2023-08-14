@@ -1,3 +1,4 @@
+import React  from 'react';
 import email from '../assets/email-outline.svg'
 import git from '../assets/github.svg'
 import linkedin from '../assets/linkedin.svg'

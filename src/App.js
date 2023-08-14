@@ -1,3 +1,4 @@
+import React  from 'react';
 import './App.css';
 import Nav from './pages/Nav';
 import Home from './pages/Home';
