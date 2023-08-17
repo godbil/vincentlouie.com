@@ -61,12 +61,12 @@ img {
   padding: 10px;
 }
 
-img:not(.gamejolt, .menu, .graph, .card, .site) {
+img:not(.gamejolt, .menu, .graph, .card, .site, .idle) {
   -webkit-filter: invert(.75);
           filter: invert(.75);
 }
 
-.menu, .graph, .card, .site {
+.menu, .graph, .card, .site, .idle {
   width: 600px;
   height: 400px;
   border-radius: 10px;
@@ -100,7 +100,7 @@ img:not(.gamejolt, .menu, .graph, .card, .site) {
 .projects {
   display: flex;
   flex-wrap: wrap;
-  height: 200vh;
+  height: 240vh;
   padding-top: 50px;
   padding-bottom: 50px;
   background-color: rgb(25, 3, 44);

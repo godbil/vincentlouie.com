@@ -6,6 +6,7 @@ import graph from '../assets/consoless.png'
 import card from '../assets/cardgame.png'
 import site from '../assets/site.png'
 import web from '../assets/web.svg'
+import idle from '../assets/idlegame.png'
 
 function Projects() {
     return (
@@ -47,6 +48,18 @@ function Projects() {
                     <div className="break"></div>
                     <p>This website! After learning HTML, CSS, JavaScript and React, I decided to write this website to show some of my projects that I have created throughout my time studying computer science.
                         As I do more projects, whether for school or for myself, I plan to put them on this website.
+                    </p>
+                </div>
+            </div>
+            <div className="section">
+                <img className='idle' src={idle} alt="Idle Game"/>
+                <div className='text'>
+                    Idle Game
+                    <a href="https://github.com/godbil/idle-game"><img src={git} alt="GitHub"/></a>
+                    <a href="https://godbil.github.io/idle-game/"><img src={web} alt="Web"/></a>
+                    <div className="break"></div>
+                    <p>A game that I am currently working on right now which uses HTML, CSS, JavaScript and React. The game is based off of Clickere Heroes and uses sprites from my previous game, Medieval
+                        Tower Defense. Currently the game is semi-playable but has minimal graphics and content. There may be a few bugs and I will be continuing to work on the game.
                     </p>
                 </div>
             </div>
