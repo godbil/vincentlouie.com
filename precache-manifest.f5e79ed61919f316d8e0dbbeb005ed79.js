@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "9bd6533a0f9c7e2a3743",
+    "revision": "739c315b8077124befa2",
     "url": "/vincentlouie.com/static/css/main.b13af8f5.chunk.css"
   },
   {
-    "revision": "9bd6533a0f9c7e2a3743",
-    "url": "/vincentlouie.com/static/js/main.8360d90c.chunk.js"
+    "revision": "739c315b8077124befa2",
+    "url": "/vincentlouie.com/static/js/main.b9478a54.chunk.js"
   },
   {
     "revision": "74264cfad888ac1773fe",
@@ -56,15 +56,15 @@ self.__precacheManifest = [
     "url": "/vincentlouie.com/static/media/site.be8b9321.png"
   },
   {
-    "revision": "e6a5339d24adf9f7032d2a02fa8d46cf",
-    "url": "/vincentlouie.com/static/media/idlegame.e6a5339d.png"
+    "revision": "ab34e3f485282e30817ea0a35b1c5d8a",
+    "url": "/vincentlouie.com/static/media/idlegame.ab34e3f4.png"
   },
   {
     "revision": "e8d408c88538a9b83768d5fc8d584bbf",
     "url": "/vincentlouie.com/static/media/louievi1.e8d408c8.pdf"
   },
   {
-    "revision": "7fc8c7c55c4b07d0bf51644ed33846ad",
+    "revision": "e788e0633d713554e6e0524daff783b9",
     "url": "/vincentlouie.com/index.html"
   }
 ];
